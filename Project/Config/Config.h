@@ -1,0 +1,9 @@
+#pragma once
+
+#define APP_VERSION_MAJOR 
+#define APP_VERSION_MINOR 
+#define APP_VERSION_PATCH 
+
+#define WINDOWS_VERSION 10
+
+#define DEFAULT_GRAPHICS_API 

@@ -1,0 +1,12 @@
+TEXTURES
+
+Diffuse 0
+Specular 0
+Roughness 0
+Normal 0
+
+SHADERS
+
+VertexShader 0
+PixelShader 0
+GeometryShader 0
