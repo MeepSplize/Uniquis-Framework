@@ -2,10 +2,10 @@
                              Uniquis-Framework
 //////////////////////////////////////////////////////////////////////////////
 
-Copyright (c) 2020, MeepSplize
+Copyright (c) 2021, MeepSplize
 All rights reserved.
 
-This software is intended for private use only.
+This software is intended for personal use only.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
