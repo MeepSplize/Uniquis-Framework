@@ -77,7 +77,7 @@ Uniquis::Application::Application()
 
 	this->vpFonts[0]->bind(this->pGraphicsManager);
 
-	this->vpTexts.emplace_back(std::make_unique<Text>(std::wstring(L"Bei Risikien oder Nebenwirkungen\nfragen Sie Ihren Arzt oder Apotheker.\nAusserdem moechte ich an dieser Stelle noch einmal anmerken,\ndass das Spielen mit Eimern auf allen einsehbaren Gebieten untersagt ist.\nIch bedanke mich aufgrund ihrer Aufmerksamkeit.\n\nMit freundlichem Grusse,\nHerrscher Alfredo")));
+	this->vpTexts.emplace_back(std::make_unique<Text>(std::wstring(L"Hallo")));
 
 	this->vpTexts[0]->bind(this->pGraphicsManager);
 }
